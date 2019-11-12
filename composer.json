@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/drag-sort",
+    "name": "heimiao/drag-sort",
     "description": "laravel-admin drag sort",
     "type": "library",
     "keywords": [
