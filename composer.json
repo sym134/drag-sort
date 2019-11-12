@@ -2,10 +2,15 @@
     "name": "laravel-admin-ext/drag-sort",
     "description": "laravel-admin drag sort",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/drag-sort",
+    "keywords": [
+        "laravel-admin",
+        "extension",
+        "drag-sort",
+        "sort",
+    ],
+    "homepage": "https://github.com/sym134/drag-sort",
     "license": "MIT",
-
+    "version": "1.0.0",
     "authors": [
         {
             "name": "heimiao",
