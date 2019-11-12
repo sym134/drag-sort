@@ -6,7 +6,7 @@ laravel-admin 行拖动排序
 ##安装
 ```php
 # drag-sort
-composer require laravel-admin-ext/drag-sort
+composer require heimiao/drag-sort
 
 # 拓展包
 composer require rutorika/sortable
