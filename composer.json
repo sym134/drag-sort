@@ -6,7 +6,7 @@
         "laravel-admin",
         "extension",
         "drag-sort",
-        "sort",
+        "sort"
     ],
     "homepage": "https://github.com/sym134/drag-sort",
     "license": "MIT",
