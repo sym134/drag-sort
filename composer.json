@@ -1,0 +1,34 @@
+{
+    "name": "laravel-admin-ext/drag-sort",
+    "description": "laravel-admin drag sort",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension"],
+    "homepage": "https://github.com/laravel-admin-ext/drag-sort",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "heimiao",
+            "email": "symok@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "encore/laravel-admin": "~1.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Encore\\DragSort\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Encore\\DragSort\\DragSortServiceProvider"
+            ]
+        }
+    }
+}
