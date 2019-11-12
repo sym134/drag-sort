@@ -1,6 +1,7 @@
 laravel-admin 行拖动排序  
 ======
 [drag-sort](https://github.com/sym134/drag-sort) 不才凑合用吧😄
+![Xnip2019-11-12_20-58-03](https://raw.githubusercontent.com/sym134/drag-sort/master/Xnip2019-11-12_20-58-03.jpg)
 ##安装
 ```php
 # drag-sort
